@@ -32,3 +32,10 @@ This model can help financial institutions:
 - Threshold optimization
 - Hyperparameter tuning
 - Deployment as an API
+
+# How to Run
+
+1. Clone the repository
+2. Install dependencies:
+   pip install -r requirements.txt
+3. Run the notebook
